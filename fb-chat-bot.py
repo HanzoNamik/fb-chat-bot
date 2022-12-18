@@ -476,24 +476,24 @@ class ChatBot(Client):
                 reply = "Nobody is busy. Only things are prioritized."
                 sendMsg()
             elif("help" in msg):
-                reply = "Sure! What should I do?"
+                reply = "Sure! kiss muna"
                 sendMsg()
-            elif("clever" in msg):
-                reply = "Yes, i am clever. hope you will be clever soon."
+            elif("mwa" in msg):
+                reply = "Yes, daddy."
                 sendMsg()
-            elif("crazy" in msg):
-                reply = "Anything wrong about that."
+            elif("huhu" in msg):
+                reply = "wawa ka naman."
                 sendMsg()
-            elif ("are funny" in msg):
-                reply = "No. I am not. You are."
+            elif ("mahal" in msg):
+                reply = "yiee. naol."
                 sendMsg()
-            elif ("marry me" in msg):
-                reply = "Yes, if you are nice and kind girl. But if you are boy RIP."
+            elif ("bobo" in msg):
+                reply = "ay weh."
                 sendMsg()
-            elif ("you from" in msg):
-                reply = "I am from Nepal. Currently living in Kathmandu"
+            elif ("ohayo" in msg):
+                reply = "ohayo"
                 sendMsg()
-            elif ("you sure" in msg):
+            elif ("haha" in msg):
                 reply = "Yes. I'm sure."
                 sendMsg()
             elif ("great" in msg):
